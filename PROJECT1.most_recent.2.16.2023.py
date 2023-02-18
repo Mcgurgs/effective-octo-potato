@@ -1,6 +1,6 @@
-# A program to take user input and display information back based on input. Enjoy :) 
+# A program to take user input and display information back based on user input. Enjoy :) 
 
-# Variables = user_name , user_password, user_color, user_pick, 
+
 import time, colorama, sys
 from colorama import Fore, Back, Style 
 colorama.init() 
